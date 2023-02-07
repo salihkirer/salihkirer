@@ -6,7 +6,6 @@
 - 💬 You can ask me anything
 - 📫 How to reach me: salihkirer@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salihkirer&layout=compact)
 <!--
 **salihkirer/salihkirer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
